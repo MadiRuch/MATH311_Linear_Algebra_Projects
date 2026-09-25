@@ -7,4 +7,5 @@ Here's a list of projects for this course:
    using Google co-labratorty to introduce the idea of solving systems of equations with code.
    FILE GOES HERE
 
-   2. Second project coming up...
+2. Use transition matrices to create predictive models for what run skiers will go on at a ski hill.
+   Modify these matrices for different scenarios on the ski hill

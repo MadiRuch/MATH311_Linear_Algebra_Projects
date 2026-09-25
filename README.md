@@ -12,4 +12,5 @@ Here's a list of projects for this course:
   
    Use transition matrices to create predictive models for what run skiers will go on at a ski hill.
    Modifying these matrices for different scenarios on the ski hill
+   https://github.com/MadiRuch/MATH311_Linear_Algebra_Projects/blob/main/The_Ski_Hill_Transition_Matrices_and_Markov_Chains.ipynb
    

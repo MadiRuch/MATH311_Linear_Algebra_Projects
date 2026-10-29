@@ -26,6 +26,6 @@ Here's a list of projects for this course:
 
 8. Gram-Schmidt Process:
   
-    I created a program that calculate the Gram0Schmidt Process using vectors. This program was created from scratch.
+    I created a program that calculate the Gram-Schmidt Process using vectors. This program was created from scratch.
    https://github.com/MadiRuch/MATH311_Linear_Algebra_Projects/blob/main/gram_schmidt_calculation_madi_ruchie.ipynb
    

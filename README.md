@@ -14,12 +14,18 @@ Here's a list of projects for this course:
    Modifying these matrices for different scenarios on the ski hill.
    https://github.com/MadiRuch/MATH311_Linear_Algebra_Projects/blob/main/The_Ski_Hill_Transition_Matrices_and_Markov_Chains.ipynb
 
-3. Secret Number: Decoding a secret polynomial from data point using linear algebra.
+3. Secret Number:
+
+   Decoding a secret polynomial from data point using linear algebra.
    https://github.com/MadiRuch/MATH311_Linear_Algebra_Projects/blob/main/Math_311_secret_number.ipynb
 
-4. Sports Teams Rankings: Using game data to rank the strength of teams using linear algebra.
+5. Sports Teams Rankings:
+  
+   Using game data to rank the strength of teams using linear algebra.
    https://github.com/MadiRuch/MATH311_Linear_Algebra_Projects/blob/main/Sports_Teams_RankingsDONE.ipynb
 
-5. I created a program that calculate the Gram0Schmidt Process using vectors. This program was created from scratch.
+8. Gram-Schmidt Process:
+  
+    I created a program that calculate the Gram0Schmidt Process using vectors. This program was created from scratch.
    https://github.com/MadiRuch/MATH311_Linear_Algebra_Projects/blob/main/gram_schmidt_calculation_madi_ruchie.ipynb
    
